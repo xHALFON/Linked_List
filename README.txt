@@ -1,1 +1,1 @@
-Create Linked List structure and counting the number of the length in O(n^2)
+Create Linked List structure with binary key and counting by the key the number of the length in O(n^2)
