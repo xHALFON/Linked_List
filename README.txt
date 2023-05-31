@@ -1,0 +1,1 @@
+Create Linked List structure and counting the number of the length in O(n^2)
